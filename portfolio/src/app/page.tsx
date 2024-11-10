@@ -9,6 +9,7 @@ import Contact from '../components/contact/page'
 const Home = () => {
   return (
     <div>
+      
       <Navbar/>
       <Hero/>
       <About/>
